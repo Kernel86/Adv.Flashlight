@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Adv.Flashlight.UI
 {
-    public partial class Form1 : Form
+    public partial class frmFlashlight : Form
     {
-        public Form1()
+        public frmFlashlight()
         {
             InitializeComponent();
         }

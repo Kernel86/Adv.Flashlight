@@ -1,6 +1,6 @@
 ﻿namespace Adv.Flashlight.UI
 {
-    partial class Form1
+    partial class frmFlashlight
     {
         /// <summary>
         /// Required designer variable.
